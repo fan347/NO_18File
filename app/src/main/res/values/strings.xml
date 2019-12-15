@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NO_18File</string>
+    <string name="button_write">写入文件</string>
+    <string name="button_read">读取文件</string>
+</resources>
